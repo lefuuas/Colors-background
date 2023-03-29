@@ -1,0 +1,9 @@
+.sidebar{
+
+    display: flex;
+    background-color: rgb(179, 210, 238);
+    justify-content: space-around;
+}
+.sidebar h3{
+    color: rgb(39, 107, 153);
+}
