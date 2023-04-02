@@ -1,4 +1,3 @@
-import React, { useEffect } from 'react'
 import Button from '../../components/Button'
 import Centerbar from '../../components/Centerbar'
 import Sidebar from '../../components/Sidebar'
@@ -53,7 +52,7 @@ export const Home = () => {
 
   //Use effect para sempre que a pagina for carregadada
   //colocar uma nova cor na pagina
-  useEffect(()=>{altercolor.ColorModify()})
+  // useEffect(()=>{altercolor.ColorModify()})
 
 
 
